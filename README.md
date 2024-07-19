@@ -1,6 +1,3 @@
-Here's a README template for your GitHub project:
-
----
 
 # AuthentiCheck
 
@@ -78,10 +75,4 @@ Contributions are welcome! Please follow these guidelines:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Create a new Pull Request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize it further based on any additional information or specific guidelines you have!
